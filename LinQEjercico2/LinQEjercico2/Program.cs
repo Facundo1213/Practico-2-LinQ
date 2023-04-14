@@ -11,24 +11,24 @@ namespace LinQEjercico2
         static void Main(string[] args)
         {
             ControlEmpresasEmpleados ce = new ControlEmpresasEmpleados();
-            Console.WriteLine("Promedios por empresa \n *********************");
+            Console.WriteLine("********************* Promedios por empresa *********************\n");
             ce.promedioSalario();
-            Console.WriteLine("");
+            H();
 
-            Console.WriteLine("Peces Gordos \n *********************");
+            Console.WriteLine("********************* Peces Gordos *********************\n");
             ce.getSeo("CEO");
-            Console.WriteLine("");
+            H();
 
             Console.WriteLine("");
-            Console.WriteLine("Plantilla \n *********************");
+            Console.WriteLine("********************* Plantilla  *********************\n");
             ce.getEmpleadosOrdenados();
-            Console.WriteLine("");
+            H();
 
-            Console.WriteLine("Plantilla ordenada por salario \n *********************");
+            Console.WriteLine("********************* Plantilla ordenada por salario *********************\n");
             ce.getEmpleadosOrdenadosSegun();
-            Console.WriteLine("");
+            H();
 
-            Console.WriteLine("\n Intrese la empresa :( entero 1 a 3 )\n1 para Ialpha\n2 para UdeLaR\n3 para SpaceZ ");
+            Console.WriteLine("\n Intrese la empresa :( entero 1 a 6 )\n1 - Ialpha\n2 -UdeLaR\n3 - SpaceZ \n4 - Omegao \n5 - BetaB \n6 - GammaF ");
             string _Id = Console.ReadLine();
             try
             {
@@ -39,6 +39,13 @@ namespace LinQEjercico2
             {
                 Console.WriteLine("Ha introducido un Id erroneo. Debe Ingresar un numero entero");
             }
+            H();
+        }
+        static void H()
+        {
+            Console.WriteLine("\n\nContinar");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }

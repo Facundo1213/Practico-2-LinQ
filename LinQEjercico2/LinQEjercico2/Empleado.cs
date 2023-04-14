@@ -13,10 +13,11 @@ namespace LinQEjercico2
         public string Cargo { get; set; }
         public int Salario { get; set; }
         public int EmpresaId { get; set; }
+        public string Estado { get; set; }
         public void getDatosEmpleado()
         {
             Console.WriteLine("Empleado {0}, con Id {1}, con cargo {2}, con salario {3} y pertenece a "
-                + "la empresa {4}", Nombre, Id, Cargo, Salario, EmpresaId);
+                + "la empresa {4} ", Nombre, Id, Cargo, Salario, EmpresaId);
         }
 
     }

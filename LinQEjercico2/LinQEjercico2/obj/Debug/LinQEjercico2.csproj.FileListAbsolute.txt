@@ -1,0 +1,8 @@
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\obj\Debug\LinQEjercico2.csproj.AssemblyReference.cache
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\obj\Debug\LinQEjercico2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\obj\Debug\LinQEjercico2.csproj.CoreCompileInputs.cache
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\bin\Debug\LinQEjercico2.exe.config
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\bin\Debug\LinQEjercico2.exe
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\bin\Debug\LinQEjercico2.pdb
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\obj\Debug\LinQEjercico2.exe
+C:\Users\fakun\OneDrive\Escritorio\eJERCICOS\LinQEjercico2\LinQEjercico2\obj\Debug\LinQEjercico2.pdb
