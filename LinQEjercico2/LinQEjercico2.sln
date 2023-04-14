@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQEjercico2", "LinQEjercico2\LinQEjercico2.csproj", "{A447C75D-873A-448C-B04B-F5D355FE1B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A447C75D-873A-448C-B04B-F5D355FE1B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A447C75D-873A-448C-B04B-F5D355FE1B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A447C75D-873A-448C-B04B-F5D355FE1B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A447C75D-873A-448C-B04B-F5D355FE1B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3A952D-8511-473C-968D-7CD8AC5FFEA3}
+	EndGlobalSection
+EndGlobal
