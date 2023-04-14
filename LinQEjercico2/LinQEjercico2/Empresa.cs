@@ -8,6 +8,7 @@ namespace LinQEjercico2
 {
     internal class Empresa
     {
+        public List<string> nombreEmpresa;
         public int Id { get; set; }
         public string Nombre { get; set; }
         public void getDatoEmpresa()
